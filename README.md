@@ -9,4 +9,4 @@ This repository contains an analysis of different normalization techniques and t
 3. [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ## Additional Info:
-[rtdl](ritassleite/Fraud_detection/TabularDataNormalization_RitaLeite/rtdl) is the python package with the implementation for the Piecewise Linear Encoder. The repo for this project can be found here: https://github.com/Yura52/rtdl
+[rtdl](TabularDataNormalization_RitaLeite/rtdl) is the python package with the implementation for the Piecewise Linear Encoder. The repo for this project can be found here: https://github.com/Yura52/rtdl
